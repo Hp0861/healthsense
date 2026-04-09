@@ -1,0 +1,42 @@
+PATHOLOGY LABORATORY REPORT
+=============================
+Patient: Ramesh Kumar        Age: 42 Years     Sex: Male
+Ref Doctor: Dr. Priya Sharma
+Date: 09/04/2026             Lab ID: HS-2026-0001
+
+COMPLETE BLOOD COUNT (CBC)
+------------------------------------------------------------------
+Test Name                   Value     Unit        Reference Range
+------------------------------------------------------------------
+Haemoglobin (Hb)            10.2      g/dL        13.0 - 17.0
+Total WBC Count             11500     cells/cumm  4000 - 11000
+Platelet Count              1.8       Lakh/cumm   1.5 - 4.5
+PCV / Haematocrit           38.5      %           40.0 - 50.0
+RBC Count                   4.10      mill/cumm   4.5 - 5.5
+MCV                         82.0      fL          80 - 100
+MCH                         28.5      pg          27 - 32
+MCHC                        33.2      g/dL        31.5 - 34.5
+Neutrophils                 72        %           40 - 80
+Lymphocytes                 22        %           20 - 40
+
+BLOOD BIOCHEMISTRY
+------------------------------------------------------------------
+Blood Glucose (F)           105       mg/dL       70 - 100
+Serum Creatinine            1.1       mg/dL       0.6 - 1.2
+Blood Urea                  28        mg/dL       15 - 40
+SGPT                        42        U/L         0 - 40
+SGOT                        38        U/L         0 - 40
+Total Cholesterol           210       mg/dL       < 200
+HDL Cholesterol             45        mg/dL       > 40
+LDL Cholesterol             135       mg/dL       < 130
+Triglycerides               155       mg/dL       < 150
+Serum Sodium                138       mEq/L       136 - 146
+Serum Potassium             4.2       mEq/L       3.5 - 5.1
+
+THYROID FUNCTION TEST
+------------------------------------------------------------------
+TSH                         5.8       uIU/mL      0.5 - 5.0
+T3                          1.2       ng/mL       0.8 - 2.0
+T4                          7.5       ug/dL       5.1 - 14.1
+
+** End of Report – For Clinical Use Only **
